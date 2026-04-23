@@ -3,6 +3,23 @@
 
 <img width="598" height="897" alt="1000 Earth Stories image" src="https://github.com/user-attachments/assets/feafeb13-8f1e-4563-b749-d62c1c4a62df" />
 
+## 核心价值：
+
+爱（Love）
+
+和平（Peace）
+
+理解（Understanding）
+
+多元文化（Diversity）
+
+宇宙星际文明（Cosmic Civilization）
+
+地球村（Global Village）
+
+正能量（Positive Energy）
+
+
 ## 🌌 1000 故事体系：10 大主题 × 每类 100 个故事
 主题	描述	数量
 1. Harmony 和谐	地球村、跨文化、跨国界温暖故事	100
